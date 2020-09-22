@@ -1,5 +1,5 @@
 # **Hi there** 👋
-Please keep calm 😎 and drink 🥤 while the .gif loads.
+Please keep calm 😎 and drink 🥤 while the .gif is loading.
 
 ![Let's surf the code](images/code_surfer.gif?raw=true)
 
