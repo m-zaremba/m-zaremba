@@ -1,11 +1,11 @@
 ## **Hi there, I'm Michał** 👋
----
+
 Please keep calm 😎 and drink 🥤 while the .gif is loading.
 
 ![Let's surf the code](images/code_surfer.gif?raw=true)
 
 ---
-### **I'm a:** 
+### **As of 2021 I'm a:** 
 - Semi-Self-Taught Front End Developer (3 years of experience)
 - Father (1 y-o-exp) 
 - Husband (11 y-o-exp) 
